@@ -1,4 +1,4 @@
-# iGC: Improving Memory Efficiency with Lightweight Native Storage
+# iGC: Improving Concurrent GC for Latency Critical Services in Multi-tenant Systems
 **Author**: Junxian Zhao, Aidi Pi, Xiaobo Zhou
 
 This repository contains the patchs proposed in the paper.
