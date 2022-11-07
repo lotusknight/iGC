@@ -4,7 +4,8 @@ This repository contains the patchs proposed in the paper.
 
 **versions**:  
 LC:  
-Java: jdk11  GC: ZGC G1GC
+Java: jdk11  
+GC: ZGC G1GC  
 Cassandra: 4.0-beta2  
 HBase: 2.2.7  
 Solr: 8.8.2  
